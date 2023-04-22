@@ -1,5 +1,5 @@
 ## 灯得@GitHub
-本页面托管于 GitHub Pages，为[**灯得**](https://dengget.github.io)博客的自留地。在大多数情况下，本页面在全球任何地区都能被快速无阻碍地访问。
+本页面托管于 GitHub Pages，[**灯得**](https://dengget.github.io)博客的自留地。在大多数情况下，本页面在全球任何地区都能被快速无阻碍地访问。
 
 ## 暗号
 五谷丰登
